@@ -1,0 +1,322 @@
+@font-face {
+  font-family: "myriad ero";
+  src: url("../alfairoze/assets/fonts/MyriadArabic-Regular.otf");
+  }
+  .component.type--form.theme--search input[type="text"] {
+    border: 1px solid #ffffff57;
+    padding: 5px 10px;
+    width: 100%;
+    color: #ffffffa1;
+    border-radius: 15px;
+    font-family: 'myriad ero';
+    font-weight: 300;
+}
+    .component.type--list.theme--iconic .item::before {
+      background-image: url('../alfairoze/assets/img/icons--24x24.png');
+    }
+    .component.type--main-slider .slide {      
+      transform: translateY(-150%);
+    }
+    
+    main {
+        min-height: 240px;
+    }
+    .mid-widget ul {
+        margin: -4px -6px;
+        color: #fff;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .mid-widget li.cat-item {
+      margin: 4px 3px;
+      display: inline-block;
+      width: 47%;
+    }
+    .mid-widget li.cat-item a {
+        color: white;
+        display: block;
+        border-radius: 8px;
+        padding: 0.4rem 0.2rem;
+        text-align: center;
+        font-size: 0.8rem;
+        line-height: 1.2;
+        white-space: nowrap;
+        background-image: linear-gradient(to right, #06556f 0%, #0a8086 30%, #0b9696 47%, #0a9977 94%);
+    } 
+    footer input.wpcf7-form-control.wpcf7-text.wpcf7-email.wpcf7-validates-as-email {
+		max-width: unset;
+		text-align: center;
+		background-color: #d3d3d3;
+		color: #808080;
+		margin: 0;
+		border-radius: 8px;
+		padding: 4px 8px;
+		width: 70%;
+		box-sizing: border-box;
+		outline-width: 0;
+		border-width: 0;
+		font-size: 0.8rem;
+		line-height: 20px;
+    }	
+    footer form.wpcf7-form {
+      display: grid;
+      grid-gap: 12px;
+      justify-content: center;
+      justify-items: center;
+      align-content: center;
+      align-items: center;
+   }
+  form.wpcf7-form p{
+    display: grid;		
+		justify-content: center;
+		justify-items: center;
+		align-content: center;
+    align-items: center;
+    grid-gap: 12px;
+  }
+  footer input.wpcf7-form-control.wpcf7-submit {
+		background-image: linear-gradient(to right, #06556f 0%, #0a8086 30%, #0b9696 47%, #0a9977 94%);
+		color: #fff !important;
+		border-radius: 8px;
+		padding: 4px 8px !important;
+		box-sizing: border-box;
+		outline-width: 0;
+		border-width: 0 !important;
+		font-size: 0.8rem !important;
+		line-height: 20px;
+		font-family: 'Cairo', sans-serif;
+	}
+	.component.type--block.theme--programs .block__main {
+    background-image: url('../alfairoze/assets/img/block--programs__bg.png');
+  }
+  .component.type--block.theme--appointment .block__main {
+    position: relative;
+    background-image: url('../alfairoze/assets/img/block--appointment__bg.png');
+  }
+  .component.type--main-slider .image {
+    position: unset;
+  }
+  html div#TqAHhpFtIv div#TqAHhpFtIv_sidebar.gridgum_container {
+    background: unset !important;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    border: 0 !important;
+    margin: 0 auto !important;   
+}
+html div#TqAHhpFtIv div#TqAHhpFtIv_sidebar.gridgum_container .gridgum_body-inner{
+  padding: 0 !important;
+}
+html div#TqAHhpFtIv div#TqAHhpFtIv_sidebar.gridgum_container .gridgum_body-inner .gridgum_headline{
+   font-family: 'Cairo', sans-serif !important;
+    color: #a0a0a0 !important;
+    font-size: 12pt !important;
+    line-height: 1.6 !important;
+    text-align: right !important;
+    margin: 0 !important;
+}
+input#TqAHhpFtIv_sidebar_email_field {
+  max-width: unset !important;
+    text-align: center !important;
+    background-color: #d3d3d3 !important;
+    color: #808080 !important;
+    margin: 0 !important;
+    border-radius: 8px !important;
+    padding: 4px 8px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    outline-width: 0 !important;
+    border-width: 0 !important;
+    font-size: 0.8rem !important;
+    line-height: 20px !important;
+    font-family: 'Cairo', sans-serif !important;
+}
+}
+.gridgum_body-inner {
+  padding: 0 !important;
+}
+.gridgum_body {
+  margin-top: 0 !important;
+}
+html div#TqAHhpFtIv .mo-optin-fields-wrapper  {
+  display: grid;
+    grid-gap: 12px;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+}
+input#TqAHhpFtIv_sidebar_submit_button {
+  background-image: linear-gradient(to right, #06556f 0%, #0a8086 30%, #0b9696 47%, #0a9977 94%) !important;
+    color: #fff;
+    border-radius: 8px !important;
+    padding: 4px 8px !important;
+    box-sizing: border-box !important;
+    outline-width: 0;
+    border-width: 0 !important;
+    font-size: 0.8rem !important;
+    line-height: 20px !important;
+    font-family: 'Cairo', sans-serif !important;
+    width: unset !important;
+}
+.block__main input.wpcf7-form-control.wpcf7-submit,
+.block__main textarea.wpcf7-form-control.wpcf7-textarea,
+.block__main input.wpcf7-form-control.wpcf7-date.wpcf7-validates-as-date,
+.block__main select.wpcf7-form-control.wpcf7-select,
+.block__main input.wpcf7-text.wpcf7-email.wpcf7-validates-as-required.wpcf7-validates-as-email,
+.block__main input.wpcf7-form-control.wpcf7-text.wpcf7-tel.wpcf7-validates-as-tel,
+.block__main input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+  padding: 0.4rem 0.8rem;
+  border: 0;
+  display: block;
+  font-size: 1rem;
+  color: #808080;
+  box-sizing: border-box;
+  outline-width: 0;
+  border-width: 0;
+  width: 100%;
+}
+.component.type--block.theme--appointment .block__main > * {  
+  direction: rtl;
+  
+}
+.block__main form.wpcf7-form{
+  grid-template-columns: repeat(2, calc((100% - 32px) / 2));
+  display: grid;
+  grid-gap: 16px 32px;
+  position: relative;
+}
+.block__main input.wpcf7-form-control.wpcf7-submit{
+  background-color: var(--theme-primary__color--1);
+  color: #fff;
+}
+.block__main span.ajax-loader {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+.left-widget .textwidget {
+  display: grid;
+  grid-gap: 12px;
+}
+.left-widget .wpcf7-form-control-wrap {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  align-content: center;
+  align-items: center;
+}
+div.wpcf7-mail-sent-ok, div.wpcf7-validation-errors, div.wpcf7-acceptance-missing {
+  border: 2px solid var(--theme-primary__color--1) !important;
+  margin: 0em -0.5em 0em !important;
+}
+span.wpcf7-not-valid-tip {
+  color: #0a9979 !important;
+  font-size: 11pt !important;
+  padding-top: 10px;
+}
+@media (min-width: 640px){
+  .input.size--full {
+    grid-column-end: span 2;
+  }
+}
+@media (min-width: 960px){
+  .component.type--footer {
+      grid-template-columns: calc((100% - ((2px * 2) + (45px * 4))) / 3) 2px calc((100% - ((2px * 2) + (4px * 4))) / 3) 2px calc((100% - ((2px * 2) + (58px * 4))) / 3);
+  }
+}
+.theme--subscription br {
+  height: 0px;
+  display: none;
+}
+[dir="rtl"] .component.type--block.theme--appointment .block__main::after {
+  background-image: url(../alfairoze/assets/img/block--appointment__avatar--rtl.png);
+}
+[dir="rtl"] .component.type--programs .program.style--discount::before {
+  right: 16px;
+  background-image: url(../alfairoze/assets/img/discount--rtl.png);
+}
+ul.crp-list {
+  grid-template-columns: repeat(3, calc((100% - (32px * 2)) / 3));
+  display: grid;
+  grid-gap: 16px 32px;
+}
+crp-list-item.crp-list-item-has-image.crp-list-item-image-above, .crp-list-item.crp-list-item-has-image.crp-list-item-image-below {
+  display: grid;
+  grid-gap: 8px 16px;
+}
+.crp-list-item .crp-list-item-image {
+  font-size: 0;
+  position: relative;
+  padding-top: 56%;
+}
+ul.crp-list img {
+  max-height: 150px;
+  position: absolute;
+  top: 0;
+  border-radius: 8px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+  display: block;
+  min-width:100%;
+}
+.images1 img {
+  width: 100%;
+    max-height: 400px;
+    min-height: 350px;
+}
+.images1 {
+  margin: 0 auto;
+  width: 75%;
+}
+.images2 {
+  margin: 20px auto;
+  width:35%;
+}
+.images2 img {
+  width:100%;
+  max-height: 250px;
+}
+.component.type--list.theme--header-links li a:hover, .component.type--list.theme--header-links li a:hover {
+  background-color: var(--theme-primary__color--2);
+  color: #fff;
+}
+input.wpcf7-form-control.wpcf7dtx-dynamictext.wpcf7-dynamictext {
+  padding: 0.4rem 0.8rem;
+  border: 0;
+  display: block;
+  font-size: 1rem;
+  color: #808080;
+  box-sizing: border-box;
+  outline-width: 0;
+  border-width: 0;
+  width: 100%;
+}
+.component.type--doctors .doctors{
+  height: calc(85px + 16px + (16px + 160px + 2px + (0.8rem * 2 * 1.6)) + (20px + (0.8rem * 2)));
+}
+.special-derails .special {
+  height: 100px;
+  background: #b9b9b9;
+  font-size: 0.8rem;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #b9b9b9;
+}
+.wp-video{
+  width: 100% !important;
+}
+.component.type--list.theme--header-links li a, .component.type--list.theme--header-links li span{
+  padding: 0.3rem;
+}
+[dir="rtl"] .component.type--doctors .information {
+  max-height: 190px;
+}
+.special-derails {
+  min-height: 120px;
+}
